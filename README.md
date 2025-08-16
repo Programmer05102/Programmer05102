@@ -44,7 +44,7 @@ I have a strong passion for **Java Development** and **Data Engineering**, and I
 ## 🌐 Find Me Online
 - 💼 [LinkedIn](https://www.linkedin.com/in/hisham-ahmed-316902260) 
 - 🐙 [GitHub](https://github.com/programmer05102)  
-- 📧 [Email](programmer05102@gmail.com)
+- 📧 [Email](mailto:programmer05102@gmail.com)
 
 ---
 
