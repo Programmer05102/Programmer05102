@@ -1,4 +1,4 @@
-# 👋 Assalam-u-Alaikum, I'm Hisham Ahmed  
+# Assalam-u-Alaikum <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Hisham Ahmed  
 
 🎓 **Student at SMI University** | 💻 **Java Desktop Application Developer** | ☁️ **Cloud Data Engineering Enthusiast**  
 
