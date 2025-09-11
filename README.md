@@ -2,7 +2,16 @@
 
 🎓 **Student at SMI University** | 💻 **Java Desktop Application Developer** | ☁️ **Cloud Data Engineering Enthusiast**  
 
----
+
+<a href="https://www.linkedin.com/in/hisham-ahmed-316902260" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
+</a>
+
+<a href="mailto:programmer05102@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
+</a>
+
+<br>
 
 ## 👨‍💻 About Me
 Hey, Assalam-u-Alaikum.  
@@ -38,13 +47,6 @@ I have a strong passion for **Java Development** and **Data Engineering**, and I
 ## 📜 Certifications
 - 🏆 **C++ Training Crash Course for Beginners** – Udemy  
 - 🏆 **CSS & JavaScript Complete Course for Beginners** – Udemy  
-
----
-
-## 🌐 Find Me Online
-- 💼 [LinkedIn](https://www.linkedin.com/in/hisham-ahmed-316902260) 
-- 🐙 [GitHub](https://github.com/programmer05102)  
-- 📧 [Email](mailto:programmer05102@gmail.com)
 
 ---
 
