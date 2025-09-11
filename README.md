@@ -3,7 +3,7 @@
 🎓 **Student at SMI University** | 💻 **Java Desktop Application Developer** | ☁️ **Cloud Data Engineering Enthusiast**  
 
 
-<a href="https://www.linkedin.com/in/hisham-ahmed-316902260" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/hisham-ahmed-316902260/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
 </a>
 
