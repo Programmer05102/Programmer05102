@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 Hey, Assalam-u-Alaikum.  
-I am **Hisham Ahmed**, an undergraduate **Computer Science student** at **Sindh Madrassetul Islam University** (currently in my final year – 7th semester).  
+I am **Hisham Ahmed**, an undergraduate **Computer Science student** at **Sindh Madrassetul Islam University** (currently in my final semester).  
 
 Alongside my degree, I am also pursuing **Cloud Data Engineering** at **Saylani Mass IT Training**.  
 I have a strong passion for **Java Development** and **Data Engineering**, and I am continuously learning and building projects to grow my expertise.  
