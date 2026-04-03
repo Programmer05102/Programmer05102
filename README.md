@@ -31,7 +31,7 @@ I have a strong passion for **Data Engineering**, and I am continuously learning
 
 ## 🛠 Skills
 - **Programming & Development:** Python, Java (Swing, JDBC, CRUD Systems), C, Assembly Language, GW-BASIC  
-- **Databases:** MySQL,SQL Server  
+- **Databases:** MySQL, SQL Server  
 - **Web Technologies:** HTML5, CSS, JavaScript (basic)  
 - **Other:** Data Engineering (in progress), Problem Solving  
 
