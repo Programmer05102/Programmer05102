@@ -18,7 +18,7 @@ Hey, Assalam-u-Alaikum.
 I am **Hisham Ahmed**, an undergraduate **Computer Science student** at **Sindh Madrassetul Islam University** (currently in my final semester).  
 
 Alongside my degree, I am also pursuing **Cloud Data Engineering** at **Saylani Mass IT Training**.  
-I have a strong passion for **Java Development** and **Data Engineering**, and I am continuously learning and building projects to grow my expertise.  
+I have a strong passion for **Data Engineering**, and I am continuously learning and building projects to grow my expertise.  
 
 ---
 
@@ -30,17 +30,10 @@ I have a strong passion for **Java Development** and **Data Engineering**, and I
 ---
 
 ## 🛠 Skills
-- **Programming & Development:** Java (Swing, JDBC, CRUD Systems), C, Assembly Language, GW-BASIC  
-- **Databases:** MySQL  
+- **Programming & Development:** Python, Java (Swing, JDBC, CRUD Systems), C, Assembly Language, GW-BASIC  
+- **Databases:** MySQL,SQL Server  
 - **Web Technologies:** HTML5, CSS, JavaScript (basic)  
 - **Other:** Data Engineering (in progress), Problem Solving  
-
----
-
-## 🧩 Projects
-- 🚍 **Bus Booking System** – Java Desktop Application with multi-user account system (Swing + JDBC + MySQL)  
-- 🧮 **Scientific Calculator** – Java application performing advanced arithmetic operations  
-- 🎲 **Guess the Number (Multilevel)** – Console-based game in C  
 
 ---
 
