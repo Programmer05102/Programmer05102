@@ -43,7 +43,7 @@ I have a strong passion for **Data Engineering**, and I am continuously learning
 
 ---
 
-⭐️ *"Always eager to learn, build, and grow in the field of Software Development & Data Engineering."*
+⭐️ *"Always eager to learn, build, and grow in the field of Computer Science & Data Engineering."*
 
 
 ---
