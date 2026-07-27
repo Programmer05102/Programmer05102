@@ -43,7 +43,15 @@ I have a strong passion for **Data Engineering**, and I am continuously learning
 
 ---
 
-⭐️ *"Always eager to learn, build, and grow in the field of Computer Science & Data Engineering."*
-
+## 📊 GitHub Stats:
+ ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Programmer05102&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.shion.dev/api?username=Programmer05102&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://streak-stats.demolab.com/?user=Programmer05102&theme=dark&hide_border=false)<br/>
 
 ---
+
+⭐️ *"Always eager to learn, build, and grow in the field of Computer Science & Data Engineering."*
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Programmer05102&icon=0&color=0)](https://visitcount.itsvg.in)
